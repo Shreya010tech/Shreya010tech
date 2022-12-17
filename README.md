@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">Hi! I am UX-UI Designer</h3>
+<h3 align="center">Hi! I am Interaction Designer</h3>
+
+- 🔭 I’m currently working on **Product Designing**
 
 - 🌱 I’m currently learning **Illustration**
 
