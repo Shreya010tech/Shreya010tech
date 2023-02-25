@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Illustration**
 
+- 👨‍💻 Here is my profile https://shreyaroy.works/
+
 - 📝 I regularly write articles on [https://medium.com/@royshreya538](https://medium.com/@royshreya538)
 
 - 💬 Ask me about **any thing , every thing.**
