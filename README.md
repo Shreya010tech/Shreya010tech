@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Illustration**
 
-- 👨‍💻 Here is my profile https://shreyaroy.works/
+- 👨‍💻 Here is my profile [https://shreyaroy.works/](https://shreya-roy.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@royshreya538](https://medium.com/@royshreya538)
 
